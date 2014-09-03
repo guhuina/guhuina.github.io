@@ -7,29 +7,29 @@
 
 <title type="text">Luna's cyanmeadow</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://0.0.0.0:4000/" />
-<updated>2014-09-03T02:04:20-04:00</updated>
-<id>http://0.0.0.0:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://guhuina.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://guhuina.github.io/" />
+<updated>2014-09-03T02:08:37-04:00</updated>
+<id>http://guhuina.github.io/</id>
 <author>
   <name>Luna's Jekyll Site</name>
-  <uri>http://0.0.0.0:4000/</uri>
+  <uri>http://guhuina.github.io/</uri>
   <email>lunaghn@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Linux中级必备的20个命令]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/linux%E4%B8%AD%E7%BA%A7%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/"/>
-  <id>http://0.0.0.0:4000/tools/linux中级必备的20个命令</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/linux%E4%B8%AD%E7%BA%A7%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/"/>
+  <id>http://guhuina.github.io/tools/linux中级必备的20个命令</id>
   <published>2014-07-25T00:00:00-04:00</published>
   <updated>2014-07-25T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#Linux" term="Linux" />
+  <category scheme="http://guhuina.github.io/tags/#Linux" term="Linux" />
   <content type="html">
   
     &lt;h2 id=&quot;find&quot;&gt;1. 命令: Find&lt;/h2&gt;
@@ -218,22 +218,22 @@
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/linux%E4%B8%AD%E7%BA%A7%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/&quot;&gt;Linux中级必备的20个命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/linux%E4%B8%AD%E7%BA%A7%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/&quot;&gt;Linux中级必备的20个命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Linux专家必备的20个命令]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/Linux%E4%B8%93%E5%AE%B6%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/"/>
-  <id>http://0.0.0.0:4000/tools/Linux专家必备的20个命令</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/Linux%E4%B8%93%E5%AE%B6%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/"/>
+  <id>http://guhuina.github.io/tools/Linux专家必备的20个命令</id>
   <published>2014-07-25T00:00:00-04:00</published>
   <updated>2014-07-25T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#Linux" term="Linux" />
+  <category scheme="http://guhuina.github.io/tags/#Linux" term="Linux" />
   <content type="html">
   
     &lt;h2 id=&quot;ifconfig&quot;&gt;1. 命令: ifconfig&lt;/h2&gt;
@@ -376,22 +376,22 @@ $ ifconfig -a  //检查所有的网络适配器
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/Linux%E4%B8%93%E5%AE%B6%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/&quot;&gt;Linux专家必备的20个命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/Linux%E4%B8%93%E5%AE%B6%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/&quot;&gt;Linux专家必备的20个命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Linux新手必备的20个命令]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/linux%E6%96%B0%E6%89%8B%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/"/>
-  <id>http://0.0.0.0:4000/tools/linux新手必备的20个命令</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/linux%E6%96%B0%E6%89%8B%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/"/>
+  <id>http://guhuina.github.io/tools/linux新手必备的20个命令</id>
   <published>2014-07-24T00:00:00-04:00</published>
   <updated>2014-07-24T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#Linux" term="Linux" />
+  <category scheme="http://guhuina.github.io/tags/#Linux" term="Linux" />
   <content type="html">
   
     &lt;h2 id=&quot;ls&quot;&gt;1. ls命令&lt;/h2&gt;
@@ -573,22 +573,22 @@ Fri May 17 14:13:29 IST 2013
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/linux%E6%96%B0%E6%89%8B%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/&quot;&gt;Linux新手必备的20个命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/linux%E6%96%B0%E6%89%8B%E5%BF%85%E5%A4%87%E7%9A%8420%E4%B8%AA%E5%91%BD%E4%BB%A4/&quot;&gt;Linux新手必备的20个命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Grunt 初学者]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/grunt%E5%88%9D%E5%AD%A6%E8%80%85/"/>
-  <id>http://0.0.0.0:4000/tools/grunt初学者</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/grunt%E5%88%9D%E5%AD%A6%E8%80%85/"/>
+  <id>http://guhuina.github.io/tools/grunt初学者</id>
   <published>2014-07-17T00:00:00-04:00</published>
   <updated>2014-07-17T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#grunt" term="grunt" />
+  <category scheme="http://guhuina.github.io/tags/#grunt" term="grunt" />
   <content type="html">
   
     &lt;h2 id=&quot;cli&quot;&gt;安装CLI&lt;/h2&gt;
@@ -674,19 +674,19 @@ grunt uglify = grunt default 两者等价
 &lt;h5 id=&quot;httpwwwgruntjsorg&quot;&gt;&lt;a href=&quot;http://www.gruntjs.org/&quot;&gt;来源&lt;/a&gt;&lt;/h5&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/grunt%E5%88%9D%E5%AD%A6%E8%80%85/&quot;&gt;Grunt 初学者&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/grunt%E5%88%9D%E5%AD%A6%E8%80%85/&quot;&gt;Grunt 初学者&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on July 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[jQuery常见问题总结]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/javascript/js%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/"/>
-  <id>http://0.0.0.0:4000/javascript/js常见问题总结</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/javascript/js%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/"/>
+  <id>http://guhuina.github.io/javascript/js常见问题总结</id>
   <published>2014-06-01T00:00:00-04:00</published>
   <updated>2014-06-01T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -728,22 +728,22 @@ $(document).ready(function(){
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/javascript/js%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/&quot;&gt;jQuery常见问题总结&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on June 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/javascript/js%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/&quot;&gt;jQuery常见问题总结&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on June 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Git 命令]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/git-shell/"/>
-  <id>http://0.0.0.0:4000/tools/git-shell</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/git-shell/"/>
+  <id>http://guhuina.github.io/tools/git-shell</id>
   <published>2014-06-01T00:00:00-04:00</published>
   <updated>2014-06-01T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#git" term="git" />
+  <category scheme="http://guhuina.github.io/tags/#git" term="git" />
   <content type="html">
   
     &lt;h3 id=&quot;git-git-config&quot;&gt;Git 前的配置git config&lt;/h3&gt;
@@ -802,19 +802,19 @@ $ git branch testing  //创建一个新的分支
 &lt;/code&gt;&lt;/pre&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/git-shell/&quot;&gt;Git 命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on June 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/git-shell/&quot;&gt;Git 命令&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on June 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[svn 命令行创建和删除 分支和tags!]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/jekyll/update/svn_shell/"/>
-  <id>http://0.0.0.0:4000/jekyll/update/svn_shell</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/jekyll/update/svn_shell/"/>
+  <id>http://guhuina.github.io/jekyll/update/svn_shell</id>
   <published>2014-05-26T00:00:00-04:00</published>
   <updated>2014-05-26T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -863,22 +863,22 @@ svn rm http://svn_server/xxx_repository/tags/release-1.0
 &lt;/code&gt;&lt;/pre&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/jekyll/update/svn_shell/&quot;&gt;svn 命令行创建和删除 分支和tags!&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/jekyll/update/svn_shell/&quot;&gt;svn 命令行创建和删除 分支和tags!&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[safari下的“隐私模式”没有调用localStorage的权限]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/%E7%A7%BB%E5%8A%A8web/safari%25e4%25b8%258b%25e7%259a%2584%25e9%259a%2590%25e7%25a7%2581%25e6%25a8%25a1%25e5%25bc%258f%25e6%25b2%25a1%25e6%259c%2589%25e8%25b0%2583%25e7%2594%25a8localstorage%25e7%259a%2584%25e6%259d%2583%25e9%2599%2590/"/>
-  <id>http://0.0.0.0:4000/%E7%A7%BB%E5%8A%A8web/safari%e4%b8%8b%e7%9a%84%e9%9a%90%e7%a7%81%e6%a8%a1%e5%bc%8f%e6%b2%a1%e6%9c%89%e8%b0%83%e7%94%a8localstorage%e7%9a%84%e6%9d%83%e9%99%90</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/%E7%A7%BB%E5%8A%A8web/safari%25e4%25b8%258b%25e7%259a%2584%25e9%259a%2590%25e7%25a7%2581%25e6%25a8%25a1%25e5%25bc%258f%25e6%25b2%25a1%25e6%259c%2589%25e8%25b0%2583%25e7%2594%25a8localstorage%25e7%259a%2584%25e6%259d%2583%25e9%2599%2590/"/>
+  <id>http://guhuina.github.io/%E7%A7%BB%E5%8A%A8web/safari%e4%b8%8b%e7%9a%84%e9%9a%90%e7%a7%81%e6%a8%a1%e5%bc%8f%e6%b2%a1%e6%9c%89%e8%b0%83%e7%94%a8localstorage%e7%9a%84%e6%9d%83%e9%99%90</id>
   <published>2014-01-22T00:00:00-05:00</published>
   <updated>2014-01-22T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#html5" term="html5" />
+  <category scheme="http://guhuina.github.io/tags/#html5" term="html5" />
   <content type="html">
   
     &lt;p&gt;解决方案：&lt;/p&gt;
@@ -894,19 +894,19 @@ if(‘localStorage’ in window){&lt;br /&gt;
 }&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/%E7%A7%BB%E5%8A%A8web/safari%25e4%25b8%258b%25e7%259a%2584%25e9%259a%2590%25e7%25a7%2581%25e6%25a8%25a1%25e5%25bc%258f%25e6%25b2%25a1%25e6%259c%2589%25e8%25b0%2583%25e7%2594%25a8localstorage%25e7%259a%2584%25e6%259d%2583%25e9%2599%2590/&quot;&gt;safari下的“隐私模式”没有调用localStorage的权限&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on January 22, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/%E7%A7%BB%E5%8A%A8web/safari%25e4%25b8%258b%25e7%259a%2584%25e9%259a%2590%25e7%25a7%2581%25e6%25a8%25a1%25e5%25bc%258f%25e6%25b2%25a1%25e6%259c%2589%25e8%25b0%2583%25e7%2594%25a8localstorage%25e7%259a%2584%25e6%259d%2583%25e9%2599%2590/&quot;&gt;safari下的“隐私模式”没有调用localStorage的权限&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on January 22, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CSS兼容问题]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/htmlcss/css%25e5%2585%25bc%25e5%25ae%25b9%25e9%2597%25ae%25e9%25a2%2598/"/>
-  <id>http://0.0.0.0:4000/htmlcss/css%e5%85%bc%e5%ae%b9%e9%97%ae%e9%a2%98</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/htmlcss/css%25e5%2585%25bc%25e5%25ae%25b9%25e9%2597%25ae%25e9%25a2%2598/"/>
+  <id>http://guhuina.github.io/htmlcss/css%e5%85%bc%e5%ae%b9%e9%97%ae%e9%a2%98</id>
   <published>2014-01-10T00:00:00-05:00</published>
   <updated>2014-01-10T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -955,19 +955,19 @@ if(‘localStorage’ in window){&lt;br /&gt;
 &lt;!--[if IE 7]&gt;此处内容只有IE7.0可见&lt;![endif]--&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/htmlcss/css%25e5%2585%25bc%25e5%25ae%25b9%25e9%2597%25ae%25e9%25a2%2598/&quot;&gt;CSS兼容问题&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/htmlcss/css%25e5%2585%25bc%25e5%25ae%25b9%25e9%2597%25ae%25e9%25a2%2598/&quot;&gt;CSS兼容问题&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Mou Markdown editor for web developers]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/mou-markdown-editor-for-web-developers/"/>
-  <id>http://0.0.0.0:4000/tools/mou-markdown-editor-for-web-developers</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/mou-markdown-editor-for-web-developers/"/>
+  <id>http://guhuina.github.io/tools/mou-markdown-editor-for-web-developers</id>
   <published>2013-12-17T00:00:00-05:00</published>
   <updated>2013-12-17T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -978,22 +978,22 @@ if(‘localStorage’ in window){&lt;br /&gt;
 &lt;p&gt;下载地址：http://mouapp.com/&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/mou-markdown-editor-for-web-developers/&quot;&gt;Mou Markdown editor for web developers&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/mou-markdown-editor-for-web-developers/&quot;&gt;Mou Markdown editor for web developers&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[jade安装使用]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/jade%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/"/>
-  <id>http://0.0.0.0:4000/tools/jade%e5%ae%89%e8%a3%85%e4%bd%bf%e7%94%a8</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/jade%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/"/>
+  <id>http://guhuina.github.io/tools/jade%e5%ae%89%e8%a3%85%e4%bd%bf%e7%94%a8</id>
   <published>2013-12-16T00:00:00-05:00</published>
   <updated>2013-12-16T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#jade" term="jade" />
+  <category scheme="http://guhuina.github.io/tags/#jade" term="jade" />
   <content type="html">
   
     &lt;h1 id=&quot;jade&quot;&gt;jade安装使用&lt;/h1&gt;
@@ -1065,22 +1065,22 @@ html(lang=&quot;en&quot;)
 &lt;/code&gt;&lt;/pre&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/jade%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/&quot;&gt;jade安装使用&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 16, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/jade%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/&quot;&gt;jade安装使用&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 16, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Stylus 安装使用]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/stylus-%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/"/>
-  <id>http://0.0.0.0:4000/tools/stylus-%e5%ae%89%e8%a3%85%e4%bd%bf%e7%94%a8</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/stylus-%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/"/>
+  <id>http://guhuina.github.io/tools/stylus-%e5%ae%89%e8%a3%85%e4%bd%bf%e7%94%a8</id>
   <published>2013-12-15T00:00:00-05:00</published>
   <updated>2013-12-15T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#stylus" term="stylus" />
+  <category scheme="http://guhuina.github.io/tags/#stylus" term="stylus" />
   <content type="html">
   
     &lt;h1 id=&quot;stylus-&quot;&gt;Stylus 安装使用&lt;/h1&gt;
@@ -1163,19 +1163,19 @@ $ stylus -w xx.styl
 &lt;p&gt;同时 xx.styl文件中添加 @import ‘nib’&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/stylus-%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/&quot;&gt;Stylus 安装使用&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 15, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/stylus-%25e5%25ae%2589%25e8%25a3%2585%25e4%25bd%25bf%25e7%2594%25a8/&quot;&gt;Stylus 安装使用&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 15, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[在浏览器调整css样式同步到本地的利器 Emmet LiveStyle]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/tools/%25e5%259c%25a8%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e8%25b0%2583%25e6%2595%25b4css%25e6%25a0%25b7%25e5%25bc%258f%25e5%2590%258c%25e6%25ad%25a5%25e5%2588%25b0%25e6%259c%25ac%25e5%259c%25b0%25e7%259a%2584%25e5%2588%25a9%25e5%2599%25a8-emmet-livestyle/"/>
-  <id>http://0.0.0.0:4000/tools/%e5%9c%a8%e6%b5%8f%e8%a7%88%e5%99%a8%e8%b0%83%e6%95%b4css%e6%a0%b7%e5%bc%8f%e5%90%8c%e6%ad%a5%e5%88%b0%e6%9c%ac%e5%9c%b0%e7%9a%84%e5%88%a9%e5%99%a8-emmet-livestyle</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/tools/%25e5%259c%25a8%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e8%25b0%2583%25e6%2595%25b4css%25e6%25a0%25b7%25e5%25bc%258f%25e5%2590%258c%25e6%25ad%25a5%25e5%2588%25b0%25e6%259c%25ac%25e5%259c%25b0%25e7%259a%2584%25e5%2588%25a9%25e5%2599%25a8-emmet-livestyle/"/>
+  <id>http://guhuina.github.io/tools/%e5%9c%a8%e6%b5%8f%e8%a7%88%e5%99%a8%e8%b0%83%e6%95%b4css%e6%a0%b7%e5%bc%8f%e5%90%8c%e6%ad%a5%e5%88%b0%e6%9c%ac%e5%9c%b0%e7%9a%84%e5%88%a9%e5%99%a8-emmet-livestyle</id>
   <published>2013-12-11T00:00:00-05:00</published>
   <updated>2013-12-11T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -1189,19 +1189,19 @@ $ stylus -w xx.styl
 &lt;img src=&quot;http://cyanmeadow.com/wp-content/uploads/2013/12/2.png&quot; alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-320&quot; /&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/tools/%25e5%259c%25a8%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e8%25b0%2583%25e6%2595%25b4css%25e6%25a0%25b7%25e5%25bc%258f%25e5%2590%258c%25e6%25ad%25a5%25e5%2588%25b0%25e6%259c%25ac%25e5%259c%25b0%25e7%259a%2584%25e5%2588%25a9%25e5%2599%25a8-emmet-livestyle/&quot;&gt;在浏览器调整css样式同步到本地的利器 Emmet LiveStyle&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 11, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/tools/%25e5%259c%25a8%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e8%25b0%2583%25e6%2595%25b4css%25e6%25a0%25b7%25e5%25bc%258f%25e5%2590%258c%25e6%25ad%25a5%25e5%2588%25b0%25e6%259c%25ac%25e5%259c%25b0%25e7%259a%2584%25e5%2588%25a9%25e5%2599%25a8-emmet-livestyle/&quot;&gt;在浏览器调整css样式同步到本地的利器 Emmet LiveStyle&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 11, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[html5 跨域配置]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/javascript/html5-%25e8%25b7%25a8%25e5%259f%259f%25e9%2585%258d%25e7%25bd%25ae/"/>
-  <id>http://0.0.0.0:4000/javascript/html5-%e8%b7%a8%e5%9f%9f%e9%85%8d%e7%bd%ae</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/javascript/html5-%25e8%25b7%25a8%25e5%259f%259f%25e9%2585%258d%25e7%25bd%25ae/"/>
+  <id>http://guhuina.github.io/javascript/html5-%e8%b7%a8%e5%9f%9f%e9%85%8d%e7%bd%ae</id>
   <published>2013-12-10T00:00:00-05:00</published>
   <updated>2013-12-10T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -1210,19 +1210,19 @@ $ stylus -w xx.styl
     &lt;p&gt;http://blog.csdn.net/hfahe/article/details/7730944&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/javascript/html5-%25e8%25b7%25a8%25e5%259f%259f%25e9%2585%258d%25e7%25bd%25ae/&quot;&gt;html5 跨域配置&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/javascript/html5-%25e8%25b7%25a8%25e5%259f%259f%25e9%2585%258d%25e7%25bd%25ae/&quot;&gt;html5 跨域配置&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[nodejs 学习参考]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/nodejs/nodejs-%25e5%25ad%25a6%25e4%25b9%25a0%25e5%258f%2582%25e8%2580%2583/"/>
-  <id>http://0.0.0.0:4000/nodejs/nodejs-%e5%ad%a6%e4%b9%a0%e5%8f%82%e8%80%83</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/nodejs/nodejs-%25e5%25ad%25a6%25e4%25b9%25a0%25e5%258f%2582%25e8%2580%2583/"/>
+  <id>http://guhuina.github.io/nodejs/nodejs-%e5%ad%a6%e4%b9%a0%e5%8f%82%e8%80%83</id>
   <published>2013-12-08T00:00:00-05:00</published>
   <updated>2013-12-08T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -1233,22 +1233,22 @@ http://cnodejs.org/ nodejs社区&lt;br /&gt;
 http://blog.sina.com.cn/s/blog_7c8dc2d50101lwka.html 怎样安装mongodb&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/nodejs/nodejs-%25e5%25ad%25a6%25e4%25b9%25a0%25e5%258f%2582%25e8%2580%2583/&quot;&gt;nodejs 学习参考&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/nodejs/nodejs-%25e5%25ad%25a6%25e4%25b9%25a0%25e5%258f%2582%25e8%2580%2583/&quot;&gt;nodejs 学习参考&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Mongodb shell]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/nodejs/mongodb-shell/"/>
-  <id>http://0.0.0.0:4000/nodejs/mongodb-shell</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/nodejs/mongodb-shell/"/>
+  <id>http://guhuina.github.io/nodejs/mongodb-shell</id>
   <published>2013-12-08T00:00:00-05:00</published>
   <updated>2013-12-08T00:00:00-05:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#mongodb%20shell" term="mongodb shell" />
+  <category scheme="http://guhuina.github.io/tags/#mongodb%20shell" term="mongodb shell" />
   <content type="html">
   
     &lt;p&gt;mongo //启动shell&lt;br /&gt;
@@ -1260,19 +1260,19 @@ update //更新内容 eg：db.user.update()&lt;br /&gt;
 remove //删除文档 eg：db.user.remove()&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/nodejs/mongodb-shell/&quot;&gt;Mongodb shell&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/nodejs/mongodb-shell/&quot;&gt;Mongodb shell&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on December 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[手机浏览器判断]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/javascript/%25e6%2589%258b%25e6%259c%25ba%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e5%2588%25a4%25e6%2596%25ad/"/>
-  <id>http://0.0.0.0:4000/javascript/%e6%89%8b%e6%9c%ba%e6%b5%8f%e8%a7%88%e5%99%a8%e5%88%a4%e6%96%ad</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/javascript/%25e6%2589%258b%25e6%259c%25ba%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e5%2588%25a4%25e6%2596%25ad/"/>
+  <id>http://guhuina.github.io/javascript/%e6%89%8b%e6%9c%ba%e6%b5%8f%e8%a7%88%e5%99%a8%e5%88%a4%e6%96%ad</id>
   <published>2013-10-18T00:00:00-04:00</published>
   <updated>2013-10-18T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -1294,19 +1294,19 @@ return false;
 &lt;/code&gt;&lt;/pre&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/javascript/%25e6%2589%258b%25e6%259c%25ba%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e5%2588%25a4%25e6%2596%25ad/&quot;&gt;手机浏览器判断&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on October 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/javascript/%25e6%2589%258b%25e6%259c%25ba%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e5%2588%25a4%25e6%2596%25ad/&quot;&gt;手机浏览器判断&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on October 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Jquery attr(“checked”) 返回checked或undefined 获取选中失效]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/jquery/jquery-attrchecked-%25e8%25bf%2594%25e5%259b%259echecked%25e6%2588%2596undefined-%25e8%258e%25b7%25e5%258f%2596%25e9%2580%2589%25e4%25b8%25ad%25e5%25a4%25b1%25e6%2595%2588/"/>
-  <id>http://0.0.0.0:4000/jquery/jquery-attrchecked-%e8%bf%94%e5%9b%9echecked%e6%88%96undefined-%e8%8e%b7%e5%8f%96%e9%80%89%e4%b8%ad%e5%a4%b1%e6%95%88</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/jquery/jquery-attrchecked-%25e8%25bf%2594%25e5%259b%259echecked%25e6%2588%2596undefined-%25e8%258e%25b7%25e5%258f%2596%25e9%2580%2589%25e4%25b8%25ad%25e5%25a4%25b1%25e6%2595%2588/"/>
+  <id>http://guhuina.github.io/jquery/jquery-attrchecked-%e8%bf%94%e5%9b%9echecked%e6%88%96undefined-%e8%8e%b7%e5%8f%96%e9%80%89%e4%b8%ad%e5%a4%b1%e6%95%88</id>
   <published>2013-10-12T00:00:00-04:00</published>
   <updated>2013-10-12T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -1324,19 +1324,19 @@ $(&#39;#cb&#39;).prop(&#39;checked&#39;,true);
 &lt;/code&gt;&lt;/pre&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/jquery/jquery-attrchecked-%25e8%25bf%2594%25e5%259b%259echecked%25e6%2588%2596undefined-%25e8%258e%25b7%25e5%258f%2596%25e9%2580%2589%25e4%25b8%25ad%25e5%25a4%25b1%25e6%2595%2588/&quot;&gt;Jquery attr(“checked”) 返回checked或undefined 获取选中失效&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on October 12, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/jquery/jquery-attrchecked-%25e8%25bf%2594%25e5%259b%259echecked%25e6%2588%2596undefined-%25e8%258e%25b7%25e5%258f%2596%25e9%2580%2589%25e4%25b8%25ad%25e5%25a4%25b1%25e6%2595%2588/&quot;&gt;Jquery attr(“checked”) 返回checked或undefined 获取选中失效&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on October 12, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[webkit webApp 开发技术要点总结]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/%E7%A7%BB%E5%8A%A8web/webkit-webapp-%25e5%25bc%2580%25e5%258f%2591%25e6%258a%2580%25e6%259c%25af%25e8%25a6%2581%25e7%2582%25b9%25e6%2580%25bb%25e7%25bb%2593/"/>
-  <id>http://0.0.0.0:4000/%E7%A7%BB%E5%8A%A8web/webkit-webapp-%e5%bc%80%e5%8f%91%e6%8a%80%e6%9c%af%e8%a6%81%e7%82%b9%e6%80%bb%e7%bb%93</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/%E7%A7%BB%E5%8A%A8web/webkit-webapp-%25e5%25bc%2580%25e5%258f%2591%25e6%258a%2580%25e6%259c%25af%25e8%25a6%2581%25e7%2582%25b9%25e6%2580%25bb%25e7%25bb%2593/"/>
+  <id>http://guhuina.github.io/%E7%A7%BB%E5%8A%A8web/webkit-webapp-%e5%bc%80%e5%8f%91%e6%8a%80%e6%9c%af%e8%a6%81%e7%82%b9%e6%80%bb%e7%bb%93</id>
   <published>2013-09-01T00:00:00-04:00</published>
   <updated>2013-09-01T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
   
@@ -1373,22 +1373,22 @@ maximum-scale – // 允许用户缩放到的最大比例&lt;/p&gt;
 &lt;p&gt;参考： http://www.cnblogs.com/pifoo/archive/2011/05/28/webkit-webapp.html&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/%E7%A7%BB%E5%8A%A8web/webkit-webapp-%25e5%25bc%2580%25e5%258f%2591%25e6%258a%2580%25e6%259c%25af%25e8%25a6%2581%25e7%2582%25b9%25e6%2580%25bb%25e7%25bb%2593/&quot;&gt;webkit webApp 开发技术要点总结&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on September 01, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/%E7%A7%BB%E5%8A%A8web/webkit-webapp-%25e5%25bc%2580%25e5%258f%2591%25e6%258a%2580%25e6%259c%25af%25e8%25a6%2581%25e7%2582%25b9%25e6%2580%25bb%25e7%25bb%2593/&quot;&gt;webkit webApp 开发技术要点总结&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on September 01, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Javascript模式]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/javascript/javascript%25e6%25a8%25a1%25e5%25bc%258f/"/>
-  <id>http://0.0.0.0:4000/javascript/javascript%e6%a8%a1%e5%bc%8f</id>
+  <link rel="alternate" type="text/html" href="http://guhuina.github.io/javascript/javascript%25e6%25a8%25a1%25e5%25bc%258f/"/>
+  <id>http://guhuina.github.io/javascript/javascript%e6%a8%a1%e5%bc%8f</id>
   <published>2013-08-22T00:00:00-04:00</published>
   <updated>2013-08-22T00:00:00-04:00</updated>
   <author>
     <name>Luna's Jekyll Site</name>
-    <uri>http://0.0.0.0:4000</uri>
+    <uri>http://guhuina.github.io</uri>
     <email>lunaghn@gmail.com</email>
   </author>
-  <category scheme="http://0.0.0.0:4000/tags/#%E6%A8%A1%E5%BC%8F" term="模式" />
+  <category scheme="http://guhuina.github.io/tags/#%E6%A8%A1%E5%BC%8F" term="模式" />
   <content type="html">
   
     &lt;h2 id=&quot;section&quot;&gt;第1章 简介&lt;/h2&gt;
@@ -1513,7 +1513,7 @@ maximum-scale – // 允许用户缩放到的最大比例&lt;/p&gt;
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/javascript/javascript%25e6%25a8%25a1%25e5%25bc%258f/&quot;&gt;Javascript模式&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on August 22, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://guhuina.github.io/javascript/javascript%25e6%25a8%25a1%25e5%25bc%258f/&quot;&gt;Javascript模式&lt;/a&gt; was originally published by Luna's Jekyll Site at &lt;a href=&quot;http://guhuina.github.io&quot;&gt;Luna's cyanmeadow&lt;/a&gt; on August 22, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
