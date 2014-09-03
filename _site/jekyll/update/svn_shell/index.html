@@ -1,0 +1,277 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>svn 命令行创建和删除 分支和tags! &#8211; Luna's cyanmeadow</title>
+<meta name="description" content="God only helps those who help themselves.">
+<meta name="keywords" content="">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://0.0.0.0:4000/images/site-logo.png">
+<meta name="twitter:title" content="svn 命令行创建和删除 分支和tags!">
+<meta name="twitter:description" content="God only helps those who help themselves.">
+<meta name="twitter:site" content="@luna_guhuina">
+
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="svn 命令行创建和删除 分支和tags!">
+<meta property="og:description" content="God only helps those who help themselves.">
+<meta property="og:url" content="http://0.0.0.0:4000/jekyll/update/svn_shell/">
+<meta property="og:site_name" content="Luna's cyanmeadow">
+
+
+
+
+
+<link rel="canonical" href="http://0.0.0.0:4000/jekyll/update/svn_shell/">
+<link href="http://0.0.0.0:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Luna's cyanmeadow Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://0.0.0.0:4000/assets/css/main.min.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://0.0.0.0:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://0.0.0.0:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://0.0.0.0:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://0.0.0.0:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://0.0.0.0:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://0.0.0.0:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="post">
+
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+	        
+			<li>
+				
+					<a href="http://0.0.0.0:4000/">Index</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="http://0.0.0.0:4000/html+css/">HTML+CSS</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="http://0.0.0.0:4000/javascript/">JAVASCRIPT</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="http://0.0.0.0:4000/tools/">TOOLS</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="http://0.0.0.0:4000/nodejs/">NODEJS</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="/ppt/">PPT</a>
+				 
+			</li>
+	        
+	        <!-- <li><a href="http://0.0.0.0:4000/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li> -->
+	        <li class="dosearch"><i class="icon-search"></i> Search</li>
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+<div class="search-wrapper">
+	<div class="search-form">
+		<input type="text" class="search-field" placeholder="Search...">
+		<i class="icon-remove-sign icon-2x"></i>
+		<ul class="search-results post-list"></ul><!-- /.search-results -->
+	</div><!-- /.search-form -->
+</div><!-- ./search-wrapper -->
+
+<header class="masthead">
+	<div class="wrap">
+        
+    		<a href="http://0.0.0.0:4000/" class="site-logo" rel="home" title="Luna's cyanmeadow"><img src="http://0.0.0.0:4000/images/site-logo.png" width="200" height="200" alt="Luna's cyanmeadow logo" class="animated fadeInUp"></a>
+        
+        <h1 class="site-title animated fadeIn"><a href="http://0.0.0.0:4000/">Luna's cyanmeadow</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">God only helps those who help themselves.</h2>
+	</div>
+</header><!-- /.masthead -->
+
+
+<div id="main" role="main">
+  <article class="hentry">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags"></span>
+        
+          <h1 class="entry-title">svn 命令行创建和删除 分支和tags!</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        
+        
+        <img src="http://0.0.0.0:4000/images/bio-photo.jpg" alt="Luna's Jekyll Site photo" class="author-photo">
+        
+        <span class="author vcard">By <span class="fn"><a href="http://0.0.0.0:4000/about/" title="About Luna's Jekyll Site">Luna's Jekyll Site</a></span></span>
+        
+        <span class="entry-date date published"><time datetime="2014-05-26T00:00:00-04:00"><i class="icon-calendar-empty"></i> May 26, 2014</time></span>
+        
+        
+        <span><a href="http://0.0.0.0:4000/jekyll/update/svn_shell/" rel="bookmark" title="svn 命令行创建和删除 分支和tags!"><i class="icon-link"></i> Permalink</a></span>
+        
+      </footer>
+      <div class="entry-content">
+        <h1 id="svn--tags">svn 命令行创建和删除 分支和tags</h1>
+
+<h2 id="section">创建分支</h2>
+
+<pre><code>svn cp -m "create branch" http://svn_server/xxx_repository/trunk http://svn_server/xxx_repository/branches/br_feature001 
+</code></pre>
+
+<h2 id="section-1">获得分支</h2>
+
+<pre><code>svn co http://svn_server/xxx_repository/branches/br_feature001 
+</code></pre>
+
+<h2 id="section-2">合并主干上的最新代码到分支上</h2>
+
+<pre><code>cd br_feature001 
+svn merge http://svn_server/xxx_repository/trunk 
+如果需要预览该刷新操作，可以使用svn mergeinfo命令，如：
+svn mergeinfo http://svn_server/xxx_repository/trunk --show-revs eligible
+或使用svn merge --dry-run选项以获取更为详尽的信息。
+</code></pre>
+
+<h2 id="section-3">分支合并到主干</h2>
+
+<pre><code>一旦分支上的开发结束，分支上的代码需要合并到主干。SVN中执行该操作需要在trunk的工作目录下进行。命令如下：
+cd trunk 
+svn merge --reintegrate http://svn_server/xxx_repository/branches/br_feature001 
+分支合并到主干中完成后应当删该分支，因为在SVN中该分支已经不能进行刷新也不能合并到主干。
+
+合并版本并将合并后的结果应用到现有的分支上
+svn -r 148:149 merge http://svn_server/xxx_repository/trunk
+</code></pre>
+
+<h2 id="tags">建立tags</h2>
+<pre><code>产品开发已经基本完成，并且通过很严格的测试，这时候我们就想发布给客户使用，发布我们的1.0版本
+svn copy http://svn_server/xxx_repository/trunk http://svn_server/xxx_repository/	tags/release-1.0 -m "1.0 released"
+</code></pre>
+
+<h2 id="tags-1">删除分支或tags</h2>
+<pre><code>svn rm http://svn_server/xxx_repository/branches/br_feature001
+svn rm http://svn_server/xxx_repository/tags/release-1.0
+</code></pre>
+
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="http://0.0.0.0:4000/%E7%A7%BB%E5%8A%A8web/safari%25e4%25b8%258b%25e7%259a%2584%25e9%259a%2590%25e7%25a7%2581%25e6%25a8%25a1%25e5%25bc%258f%25e6%25b2%25a1%25e6%259c%2589%25e8%25b0%2583%25e7%2594%25a8localstorage%25e7%259a%2584%25e6%259d%2583%25e9%2599%2590/" class="btn" title="safari下的“隐私模式”没有调用localStorage的权限">Previous article</a>
+      
+      
+        <a href="http://0.0.0.0:4000/tools/git-shell/" class="btn" title="Git 命令">Next article</a>
+      
+    </nav><!-- /.pagination -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>&copy; 2014 Luna's Jekyll Site. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/so-simple/">So Simple Theme</a>.</span>
+<div class="social-icons">
+	<a href="http://twitter.com/luna_guhuina" title="Luna's Jekyll Site on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+	<a href="http://facebook.com/guhuina" title="Luna's Jekyll Site on Facebook" target="_blank"><i class="icon-facebook icon-2x"></i></a>
+	
+	
+	
+	
+	
+	<a href="http://github.com/guhuina" title="Luna's Jekyll Site on Github" target="_blank"><i class="icon-github icon-2x"></i></a>
+	
+</div><!-- /.social-icons -->
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://0.0.0.0:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://0.0.0.0:4000/assets/js/scripts.min.js"></script>
+
+<!-- Jekyll Simple Search option -->
+<script>
+  $(document).ready(function() {
+      $('.search-field').simpleJekyllSearch({
+          jsonFile : 'http://0.0.0.0:4000/search.json',
+          searchResults : '.search-results',
+          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          noResults: '<p>Nothing found.</p>'
+        });
+  });
+
+  (function( $, window, undefined ) {
+    
+     var bs = {
+          close: $(".icon-remove-sign"),
+          searchform: $(".search-form"),
+          canvas: $("body"),
+          dothis: $('.dosearch')
+      };
+    
+    bs.dothis.on('click', function() {
+      $('.search-wrapper').css({ display: "block" });
+      bs.searchform.toggleClass('active');
+      bs.searchform.find('input').focus();
+      bs.canvas.toggleClass('search-overlay');
+    });
+    
+      bs.close.on('click', function() {
+        $('.search-wrapper').removeAttr( 'style' );
+        bs.searchform.toggleClass('active');
+        bs.canvas.removeClass('search-overlay');
+    });
+  })( jQuery, window );
+</script>
+
+
+	        
+
+</body>
+</html>
