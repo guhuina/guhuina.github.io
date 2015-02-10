@@ -4,5 +4,5 @@
 # qzz ignore
 _site/
 .DS_Store
-
+*.tmp
 
