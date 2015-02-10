@@ -17,6 +17,7 @@ tags:
     	}
     	@return $map;
 	}
+    
 ## Set Property
 	
 	@function set-property($element,$property,$value){
