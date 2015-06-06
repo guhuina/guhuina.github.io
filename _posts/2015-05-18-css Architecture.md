@@ -3,7 +3,7 @@ title:  "漫谈css架构方法"
 author: luna
 layout: post
 categories: 
-  - html+css
+  - htmlcss
 tags: 
   - css OOCSS SMACSS BEM
 ---
